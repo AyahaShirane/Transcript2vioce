@@ -1,0 +1,11 @@
+{
+    "AccessKeyId": "",
+    "AccessKeySecret": "",
+    "appkey": "",
+    "voice": "",
+    "format": "",
+    "sample_rate": 16000, 
+    "volume": 50,
+    "speech_rate": 0,
+    "pitch_rate": 0
+}
